@@ -26,7 +26,8 @@ registry=https://registry.npmjs.org/
 
 The auth token needs the `write:packages` access. Write your username in lowercase
 
-When your finished run `npm publish`
+
+When your finished run `npm run rollup` to build then `npm publish` to publish
 
 It might take a while (took a bit for me) but the packages should show up under your profile in the "Packages" tab.
 
